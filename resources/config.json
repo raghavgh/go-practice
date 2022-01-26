@@ -1,0 +1,9 @@
+{
+  "databaseConfig": {
+    "user": "postgresme",
+    "password": "TimePass@1234",
+    "port": "19390",
+    "dbname": "postgresdb",
+    "host": "postgresql-67286-0.cloudclusters.net"
+  }
+}
